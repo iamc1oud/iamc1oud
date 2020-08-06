@@ -15,14 +15,11 @@
 
 <br />
 <br />
----
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AjjuSingh&show_icons=true&hide_border=true" />
 
