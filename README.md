@@ -1,4 +1,4 @@
-### Hi, I'm Ajay 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 ## I'm a Developer and Gamer
 - 🔭 I’m currently working on a flutter app.
