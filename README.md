@@ -8,9 +8,9 @@
 
 ## Skills
 # Languages
-[<img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" />]
-[<img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />]
-[<img align="left" alt="Dart" width="22px" src="https://img.favpng.com/17/22/14/dart-logo-programming-language-computer-programming-png-favpng-dxsn9fxX3pi0nNgU3ehqpmPWN.jpg" />]
+<img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" />
+<img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />
+<img align="left" alt="Dart" width="22px" src="https://dwglogo.com/?download=6029" />
 
 ### Connect with me:
 
