@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
-# Skills
+# 💻 Skills
 ## Languages
 [<img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" />][python]
 [<img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />][kotlin]
