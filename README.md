@@ -12,6 +12,11 @@
 [<img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" />][python]
 [<img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />][kotlin]
 [<img align="left" alt="Dart" width="55px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" />][dart]
+  
+  [python]: https://python.org
+[kotlin]: https://kotlinlang.org
+[dart]: https://dart.dev
+
 </div>
 <br>
 ### Connect with me:
@@ -30,6 +35,3 @@
 [twitter]: https://twitter.com/cloudmaxio
 [instagram]: https://instagram.com/iamcloud.dev
 [linkedin]: https://www.linkedin.com/in/ajay-kumar-singh-737182154/
-[python]: https://python.org
-[kotlin]: https://kotlinlang.org
-[dart]: https://dart.dev
