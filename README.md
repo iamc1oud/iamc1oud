@@ -25,8 +25,9 @@
 ### Google Trend of Frameworks
 <p>
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script> 
-<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/06y_qx","geo":"","time":"today 12-m"},{"keyword":"/m/0dhx5b","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F06y_qx,%2Fm%2F0dhx5b&date=today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
-</script> 
+```javascript
+trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/06y_qx","geo":"","time":"today 12-m"},{"keyword":"/m/0dhx5b","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F06y_qx,%2Fm%2F0dhx5b&date=today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
+```
 </p>
 
 #### Overall profile stats
