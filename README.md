@@ -10,7 +10,7 @@
 # Languages
 <img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" />
 <img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />
-<img align="left" alt="Dart" width="" src="https://banner2.cleanpng.com/20180409/zte/kisspng-dart-google-developers-flutter-android-darts-5acbd976aea304.6247890515233089187153.jpg" />
+<img align="left" alt="Dart" width="22px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" />
 <br>
 ### Connect with me:
 
