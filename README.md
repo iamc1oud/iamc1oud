@@ -24,9 +24,9 @@
 <br>
 
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
 
 <!--- 
 <p   align="center" >
