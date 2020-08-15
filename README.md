@@ -21,13 +21,12 @@
 [<img align="left" alt="django" width="55px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][django]
 [<img align="left" alt="spring" width="88px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />][spring]
 [<img align="left" alt="flutter" width="66px" src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=1600%2C800&strip=all" />][flutter]
-
+<br>
 ```javascript
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script> 
 <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/06y_qx","geo":"","time":"today 12-m"},{"keyword":"/m/0dhx5b","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F06y_qx,%2Fm%2F0dhx5b&date=today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
 </script> 
 ```
-
 
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
