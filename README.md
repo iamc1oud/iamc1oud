@@ -15,8 +15,8 @@
 
 ## Frameworks
 [<img align="left" alt="django" width="55px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][django]
-[<img align="left" alt="spring" width="55px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />][spring]
-[<img align="left" alt="flutter" width="55px" src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=1600%2C800&strip=all" />][flutter]
+[<img align="left" alt="spring" width="88px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />][spring]
+[<img align="left" alt="flutter" width="88px" src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=1600%2C800&strip=all" />][flutter]
 
 <br>
 ## Connect with me:
@@ -25,7 +25,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
