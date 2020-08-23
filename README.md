@@ -24,13 +24,14 @@
 <br>
 
 ### Articles
-- [Top JAVA frameworks to use in 2020][https://hackr.io/blog/java-frameworks]
+- [Top JAVA frameworks to use in 2020][link1]
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 <img src="https://gpvc.arturio.dev/AjjuSingh" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
 
 
+[link1]: https://hackr.io/blog/java-frameworks
 [twitter]: https://twitter.com/cloudmaxio
 [instagram]: https://instagram.com/iamcloud.dev
 [linkedin]: https://www.linkedin.com/in/ajay-kumar-singh-737182154/
