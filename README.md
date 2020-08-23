@@ -24,7 +24,7 @@
 <br>
 
 ### Articles
-- [Top JAVA frameworks to use in 2020][link1]
+- <p>[Top JAVA frameworks to use in 2020]</p>[link1]
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
 
