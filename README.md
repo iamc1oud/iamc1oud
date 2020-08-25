@@ -43,4 +43,3 @@
 [spring]: https://spring.io
 [flutter]: https://flutter.dev
 [vaadin]: https://vaadin.com
-[java] : https://wwww.java.com
