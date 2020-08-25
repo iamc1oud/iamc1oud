@@ -21,7 +21,7 @@
 [<img align="left" alt="django" width="55px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][django]
 [<img align="left" alt="spring" width="88px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />][spring]
 [<img align="left" alt="flutter" width="66px" src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=1600%2C800&strip=all" />][flutter]
-[<img align="left" alt="vaadin" width="66px" src="https://vaadin.com/images/vaadin-logo.svg" />][vaadin]
+[<img align="left" alt="vaadin" width="88px" src="https://vaadin.com/images/vaadin-logo.svg" />][vaadin]
 <br>
 ## 📚 Articles
 
