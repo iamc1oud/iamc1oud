@@ -9,7 +9,7 @@
 <a href="https://twitter.com/cloudmaxio"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ajay-kumar-singh-737182154/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 </p>
-
+<br>
 ## 💻 Skills
 
 ### Languages
@@ -17,7 +17,6 @@
 [<img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />][kotlin]
 [<img align="left" alt="Dart" width="55px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/whitee71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" />][dart]
 
-<br>
 ### Frameworks
 [<img align="left" alt="django" width="55px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][django]
 [<img align="left" alt="spring" width="88px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />][spring]
