@@ -9,8 +9,10 @@
 <a href="https://twitter.com/cloudmaxio"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ajay-kumar-singh-737182154/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 </p>
+
 <br>
 ## 💻 Skills
+
 ### Languages
 [<img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" />][python]
 [<img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />][kotlin]
