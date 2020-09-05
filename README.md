@@ -27,6 +27,7 @@
 ## 📚 Articles
 
 1. [Top JAVA frameworks to use in 2020][link1]
+2. [Top Interview Questions to practice for Tech Companies][link2]
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
 
@@ -34,6 +35,7 @@
 
 
 [link1]: https://hackr.io/blog/java-frameworks
+[link2]: https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 [twitter]: https://twitter.com/cloudmaxio
 [instagram]: https://instagram.com/iamcloud.dev
 [linkedin]: https://www.linkedin.com/in/ajay-kumar-singh-737182154/
