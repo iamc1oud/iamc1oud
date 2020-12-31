@@ -1,9 +1,9 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 ## I'm a Developer and Gamer
-- 🔭 I’m currently working on a flutter app.
+- 🔭 I’m currently working on my portfolio website using Flutter Web.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <p align="center">
 <a href="https://twitter.com/cloudmaxio"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
@@ -26,15 +26,13 @@
 <br>
 ## 📚 Articles
 
-1. [Top JAVA frameworks to use in 2020][link1]
-2. [Top Interview Questions to practice for Tech Companies][link2]
+1. [Top Interview Questions to practice for Tech Companies][link2]
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 <img src="https://gpvc.arturio.dev/AjjuSingh" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
 
 
-[link1]: https://hackr.io/blog/java-frameworks
 [link2]: https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 [twitter]: https://twitter.com/cloudmaxio
 [instagram]: https://instagram.com/iamcloud.dev
