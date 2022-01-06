@@ -27,7 +27,7 @@
 
 1. [Top Interview Questions to practice for Tech Companies][link2]
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=AjjuSingh&count_private=true&theme=merko&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api?username=iamc1oud&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 <img src="https://gpvc.arturio.dev/AjjuSingh" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
 
