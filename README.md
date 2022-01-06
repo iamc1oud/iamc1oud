@@ -29,7 +29,7 @@
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=iamc1oud&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/AjjuSingh" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
+<img src="https://gpvc.arturio.dev/iamc1oud" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/iamc1oud?style=social"/> 
 
 
 [link2]: https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
