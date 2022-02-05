@@ -1,8 +1,8 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 ## I'm a Developer and Gamer
-- 🔭 I’m currently working on projects for portfolio.
-- 👯 I’m looking to collaborate with other content creators.
+<div>🔭 Working on Canary 🐦</div>
+<div>👯 Collaborating with other content creators.</div>
 
 <p align="center">
 <a href="https://twitter.com/cloudmaxio"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
