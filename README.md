@@ -1,7 +1,7 @@
 <h1 align="center">Hey!👨‍💻❤️</h1>
 
 ## I'm a Developer and Gamer
-<div>🔭 Working on Canary 🐦</div>
+<div>🔭 Working on Confer - App for creators 🐦</div>
 <div>👯 Collaborating with other content creators.</div>
 
 <p align="center">
