@@ -8,6 +8,4 @@
 </p>
 <br>
 
-<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/385763436736282627)](https://discord.com/users/385763436736282627)
-</div>
