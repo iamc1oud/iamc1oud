@@ -1,6 +1,6 @@
 ## I'm a Developer and Gamer
-<div>🔭 Working on Confer - App for creators 🐦</div>
-<div>👯 Collaborating with other content creators.</div>
+<div>Working on Confer - Schedule meets with ease 🐦</div>
+<div>Collaborating with other content creators.</div>
 
 <p align="center">
 <a href="https://twitter.com/iamclouddev"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
