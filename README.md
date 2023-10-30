@@ -11,8 +11,7 @@ I'm Ajay, a passionate developer with a love for coding and a thirst for knowled
 
 I'm currently involved in some exciting projects, including:
 
-- 🌐 [Project 1](https://github.com/yourusername/project1): Brief description of the project.
-- 🤖 [Project 2](https://github.com/yourusername/project2): Another cool project and its purpose.
+- 🌐 [Koot](https://github.com/iamc1oud/koot-framework): Open source ready to use backend framework
 
 ## 🔧 My Tech Stack
 
