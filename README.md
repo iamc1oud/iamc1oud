@@ -11,17 +11,17 @@ I'm Ajay, a passionate developer with a love for coding and a thirst for knowled
 
 I'm currently involved in some exciting projects, including:
 
-- 🌐 [Koot](https://github.com/iamc1oud/koot-framework): Open source ready to use backend framework
+- 🌐 [FinoTracker](https://github.com/iamc1oud/FinoTracker): Managing finance made easy
 - 🌐 [NovaGems](https://novage.ms/): Scheduling & Workforce Management System for Industry
 
 ## 🔧 My Tech Stack
 
 I'm proficient in various technologies and tools, such as:
 
-- 👨‍💻 Languages: JavaScript, Python, etc.
-- 📦 Frameworks and Libraries: Node.js, Express, NestJS, Flutter etc.
-- 🛢️ Databases: MongoDB, PostgreSQL, etc.
-- 🚀 DevOps: Docker, CI/CD pipelines, AWS, etc.
+- 👨‍💻 Languages: JavaScript, Python, Rust, Dart, Go
+- 📦 Frameworks and Libraries: Node.js, Express, NestJS, Flutter, Actix-Web, Fibre
+- 🛢️ Databases: MongoDB, PostgreSQL, Cassandr
+- 🚀 DevOps: Docker, AWS
 
 ## 🤝 Let's Collaborate
 
