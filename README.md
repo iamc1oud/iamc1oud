@@ -11,7 +11,7 @@ I'm Ajay, a passionate developer with a love for coding and a thirst for knowled
 
 I'm currently involved in some exciting projects, including:
 
-- 💰 [FinoTracker](https://github.com/iamc1oud/FinoTracker): Managing finance made easy
+- 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction
 - 🌐 [NovaGems](https://novage.ms/): Scheduling & Workforce Management System for Industry
 
 ## 🔧 My Tech Stack
