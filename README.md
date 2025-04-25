@@ -20,8 +20,8 @@ I'm proficient in various technologies and tools, such as:
 
 - 👨‍💻 Languages: JavaScript, Python, Rust, Dart, Go
 - 📦 Frameworks and Libraries: Node.js, Express, NestJS, Flutter, Actix-Web, Fibre
-- 🛢️ Databases: MongoDB, PostgreSQL, Cassandr
-- 🚀 DevOps: Docker, AWS
+- 🛢️ Databases: MongoDB, PostgreSQL, Cassandra
+- 🚀 DevOps: Docker, AWS, Git
 
 ## 🤝 Let's Collaborate
 
