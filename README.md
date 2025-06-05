@@ -13,6 +13,7 @@ I'm currently involved in some exciting projects, including:
 
 - 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction
 - 🌐 [NovaGems](https://novage.ms/): Scheduling & Workforce Management System for Industry
+- Verse: Manage projects in your organisation
 
 ## 🔧 My Tech Stack
 
