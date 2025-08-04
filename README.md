@@ -12,8 +12,7 @@ I'm Ajay, a passionate developer with a love for coding and a thirst for knowled
 I'm currently involved in some exciting projects, including:
 
 - 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction
-- 🌐 [NovaGems](https://novage.ms/): Scheduling & Workforce Management System for Industry
-- Verse: Manage projects in your organisation
+- 🌐 Verse: Manage projects in your organisation and easy scheduling
 
 ## 🔧 My Tech Stack
 
