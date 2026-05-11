@@ -10,9 +10,12 @@ I'm Ajay, a passionate developer with a love for coding and a thirst for knowled
 ## 🛠️ What I'm Working On
 
 I'm currently involved in some exciting projects, including:
+- 🔐 VaultOS - Self Hosted secrets manager with SDK support (No Vibe Code Challenge)
 
-- 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction
-- 🌐 SynapseManager: Manage finance with AI 🤖
+Completed Projects
+
+- 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction ✅
+- 🌐 SynapseManager: Manage finance with AI 🤖 ✅
 
 ## 🔧 My Tech Stack
 
