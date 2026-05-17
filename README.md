@@ -11,6 +11,7 @@ I'm Ajay, a passionate developer with a love for coding and a thirst for knowled
 
 I'm currently involved in some exciting projects, including:
 - 🔐 VaultOS - Self Hosted secrets manager with SDK support (No Vibe Code Challenge)
+- 🗓️ GorinGG - GorinGG is a suite of five products — CRM, billing, projects, support and email — that share contacts, files and customers out of the box. Built for a freelancer on day one, ready when you grow to two thousand.
 
 Completed Projects
 
