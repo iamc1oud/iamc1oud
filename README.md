@@ -16,7 +16,7 @@ I'm currently involved in some exciting projects, including:
 Completed Projects
 
 - 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction ✅
-- 🌐 [SynapseManager](https://github.com/iamc1oud/SynapseManager): Manage finance with AI 🤖 ✅
+- 🌐 [SynapseManager](https://github.com/iamc1oud/SynapseFinance): Manage finance with AI 🤖 ✅
 
 ## 🔧 My Tech Stack
 
