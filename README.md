@@ -2,7 +2,7 @@
 
 I'm Ajay, a passionate developer with a love for coding and a thirst for knowledge. Welcome to my GitHub profile! Here's a bit about me:
 
-- 💻 I'm a software engineer, currently working on Zeko Platform.
+- 💻 I'm a Senior Software Engineer, currently working at QuestionPro.
 - 🚀 I'm enthusiastic about backend and app development.
 - 📚 I'm a lifelong learner, always striving to expand my skills and knowledge.
 - 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/iamcloud), [Twitter](https://twitter.com/iamclouddev).
