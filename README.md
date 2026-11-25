@@ -15,8 +15,10 @@ I'm currently involved in some exciting projects, including:
 
 Completed Projects
 
-- 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction ✅
-- 🌐 [SynapseManager](https://github.com/iamc1oud/SynapseFinance): Manage finance with AI 🤖 ✅
+- 🏨 [Zeko](https://zeko.tech/): Transforming Guest Interaction in Hotels
+- 🌐 [SynapseManager](https://github.com/iamc1oud/SynapseFinance): Manage finance with AI
+- 🌋 [Language Loop AI](https://github.com/iamc1oud/language-loop-ai): Learn any language
+- ⚪️ [SysConfig](https://github.com/iamc1oud/sys-config): Manages configuration files scattered throughout your filesystem while keeping them synchronized with a Git repository
 
 ## 🔧 My Tech Stack
 
