@@ -24,15 +24,9 @@ Completed Projects
 
 I'm proficient in various technologies and tools, such as:
 
-- 👨‍💻 Languages: JavaScript, Python, Rust, Dart, Go
-- 📦 Frameworks and Libraries: Node.js, Express, NestJS, Flutter, Actix-Web, Fibre
-- 🛢️ Databases: MongoDB, PostgreSQL, Cassandra
-- 🚀 DevOps: Docker, AWS, Git
-
-## 🤝 Let's Collaborate
-
-I'm open to collaboration, new projects, and connecting with fellow developers. If you have any questions, suggestions, or just want to chat, feel free to reach out. Let's create something amazing together!
+- 👨‍💻 Languages: JavaScript, Python, Rust, Dart, Go, Typescript
+- 📦 Frameworks and Libraries: Node.js, Express, NestJS, Flutter, Actix-Web, Fibre, Axum
+- 🛢️ Databases: MongoDB, PostgreSQL, Cassandra, ScyllaDB, Clickhouse
+- 🚀 DevOps: Docker, AWS, Git, K8s
 
 📧 Email: [ajaykumar.kumar900@gmail.com]
-
-Thanks for visiting my GitHub profile! Happy coding! 🚀
